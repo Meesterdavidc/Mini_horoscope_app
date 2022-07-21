@@ -1,0 +1,1 @@
+# Mini_horoscope_app
